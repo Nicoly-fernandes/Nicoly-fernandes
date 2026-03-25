@@ -20,18 +20,28 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+   <img src="[https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)">
+  	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+  https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
+  	https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
 </div>
 
 ### Estudando neste momento:
 <div align="left">
+  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+  https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black
+   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ### Meus Contatos:
 <div>
 <a href = "https://api.whatsapp.com/send/?phone=5551995888451&text=Ola+nicoly+vim+do%20seu+Github&type=phone_number&app_absent=0"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:nicoly.dev@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/nicolyf141" target="_blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nicoly.dev@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/nicolyf141" target="_blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=911e3b&height=120&section=footer"/>
